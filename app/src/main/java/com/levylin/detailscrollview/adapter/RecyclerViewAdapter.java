@@ -1,4 +1,4 @@
-package com.levylin.detailscrollview;
+package com.levylin.detailscrollview.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

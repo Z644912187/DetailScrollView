@@ -6,6 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
+import com.levylin.detailscrollview.adapter.RecyclerViewAdapter;
 import com.levylin.detailscrollview.views.DetailScrollView;
 import com.levylin.detailscrollview.views.DetailX5WebView;
 
